@@ -3,198 +3,231 @@
     "name": "Mango Avocado Salsa",
     "url": "https://raw.github.com/sinker/tacofancy/master/condiments/mango_avocado_salsa.md",
     "recipe": "Goes great on soft shell chicken tacos with cheese (or deep-friend wantons with scallops)!\n\n__Ingredients__\n\n* 2 Avocados\n* 2 Mangos\n* 1 Orange\n* 1 Tablespoon Honey\n* Garlic cloves (leave it up to your buds)\n* Pepper\n* 1 Lime\n\n__Directions__\n\n1. Chop avocado and mango into bowl.\n2. Squeeze the lime and half the orange in, add honey.\n3. Add garlic (chopped or pressed) and pepper to taste.\n4. Stir and enjoy!\n\ntags: vegetarian, vegan\n",
-    "slug": "mango_avocado_salsa"
+    "slug": "mango_avocado_salsa",
+    "uuid": "2f02d742-64eb-11ea-820b-acde48001122"
   },
   {
     "name": "Chipotle Sauce",
     "url": "https://raw.github.com/sinker/tacofancy/master/condiments/chipotle_sauce.md",
     "recipe": "__Ingredients__\n\n* 1 cup plain Greek yogurt\n* Juice from 2 limes\n* 2-3 chipotl\u00e9 peppers, with surrounding adobo sauce from can\n\n__Directions__\n\n1. Drop all of this into a food processor, and blend away.\n2. Let sit in fridge for 30 minutes or overnight for flavor melding. \n3. Add to tacos, and anything else you'd like.\n\ntags: vegetarian\n",
-    "slug": "chipotle_sauce"
+    "slug": "chipotle_sauce",
+    "uuid": "2f02e476-64eb-11ea-820b-acde48001122"
   },
   {
     "name": "Phoning it in Pico de Gallo",
     "url": "https://raw.github.com/sinker/tacofancy/master/condiments/Pico_de_gallo.md",
     "recipe": "_Super Quick & Easy Pico_\n\n\n* 1 pint grape tomatoes, quartered (make your kids do this part)\n* 3 tablespoons finely chopped white onion\n* Coarse salt\n* Squeeze of lime\n* As many finely chopped red (or green) jalape\u00f1os as you want (optional)\n\nCombine the tomatoes, cilantro and onion together in a bowl. Season to taste with salt and lime.\n\nReserve some of this mixture for kids, and then add as much jalape\u00f1o as you like to the remaining mixture for the non wimps.\n\ntags: vegetarian, vegan\n",
-    "slug": "phoning_it_in_pico_de_gallo"
+    "slug": "phoning_it_in_pico_de_gallo",
+    "uuid": "2f02f222-64eb-11ea-820b-acde48001122"
   },
   {
     "name": "Baja White Sauce",
     "url": "https://raw.github.com/sinker/tacofancy/master/condiments/baja_white_sauce.md",
     "recipe": "This is a traditional white sauce for [Baja fish tacos](../full_tacos/baja_fish_tacos.md).\n\n* 1/4 cup mayo\n* 2 tbsp sour cream\n* 1 tbsp lime juice\n* 1/4 tsp celery salt (or garlic salt, etc)\n\nMix, and refrigerate for an hour if possible.",
-    "slug": "baja_white_sauce"
+    "slug": "baja_white_sauce",
+    "uuid": "2f030474-64eb-11ea-820b-acde48001122"
   },
   {
     "name": "Guacamole",
     "url": "https://raw.github.com/sinker/tacofancy/master/condiments/guacamole.md",
     "recipe": "This is pretty canonical stuff right here.\n\n* 1-2 ripe Hass avocados\n* half a lime\n* a clove or two of chopped garlic\n* some chopped white or yellow onion\n* salt\n* pepper\n* dry cayenne or red chile pepper powder\n* a jalape\u00f1o, if that's your thing\n* a small chopped tomato\n* a handful of chopped cilantro\n\nLook, here's how this works: First, you squeeze the lime juice into your nice little ceramic bowl. Then you add the garlic, onion, spices, peppers if you're heating it up, and then **walk away**.\n\nSeriously, walk away for a minute. Crack open a nice Negra Modelo and use a wedge of the other half of the lime in it. Back in your bowl, let the strong stuff marinate in that lime juice for a few minutes. It's cooking.\n\nOK, now that you're back, mix in the rest of the non-avocado ingredients. If you have a pestle, now's it's time to shine. If not, use a small wooden spoon, or failing all else, a fork, you miserable lout. \n\nMash up everything but the avocado. Get it pasty if you can. Squish it all up.\n\nNow you can add your avocado or two, dude. I usually go with about 1.5 avos to condiment tacos or taco-like structures for four humans of varying sizes.\n\nJust in case no one ever taught you how to deal with an avocado correctly, here's a quick lesson:\n* Cut it in half, longways.\n* Smack the pit with the sharp edge of your knife and give it a sensible 90-degree twist.\n* Voila, the avocado pit is on your knife.\n* Dispose of it, unless you're not going to finish all that guac now, in which case, hang onto it and put it in the bowl with the guac before you put it in the fridge.\n* Now that your knife is free, use it to carve long slices into the flesh of your avocado, one half at a time. Cross-hatch that sucker a bit. Don't cut through the flesh.\n* Finally, get your avocado half above your nice bowl full of deliciousness, and use the skin to gently push your nice slices into the spicy soup below. Turn it inside-out, if you must, but know that you can minimize the amount of avocado that gets all over your hands if you do this just right.\n\nTo finish up your guacamole, mash your avocado up a bit and gently mix it into the magical citric-spice-tomato concoction. We're done here.\n\n_Thanks to [The Awl](http://www.theawl.com/2010/02/half-baked-guacamole-by-the-ceviche-method) for limited inspiration regarding the limey and drinky parts._\n\ntags: vegetarian\n",
-    "slug": "guacamole"
+    "slug": "guacamole",
+    "uuid": "2f030eba-64eb-11ea-820b-acde48001122"
   },
   {
     "name": "Salsa Sauce",
     "url": "https://raw.github.com/sinker/tacofancy/master/condiments/salsa_sauce.md",
     "recipe": "From What's Cookin' Cookbook: A Recipe Collection from the Schlaback Family\n\n* 14 c. tomatoes, chopped\n* 2 1/2 c. onions\n* 4 tsp. fresh garlic\n* 2 (4 oz.) canned green chilies\n* 1 tsp. garlic powder\n* 1 tsp. salt\n* 2 tsp. paprika\n* 1/2 tsp. ground cumin\n* 1/4 tsp. oregano\n* 1 tsp. chili powder\n* 1/2 c. vinegar\n* 1 Tbsp. brown sugar\n\nMix and bring to a boil. Cook down 1 1/2 hours. Cold pack for 20 minutes.\n\ntags: vegetarian, vegan\n",
-    "slug": "salsa_sauce"
+    "slug": "salsa_sauce",
+    "uuid": "2f0318f6-64eb-11ea-820b-acde48001122"
   },
   {
     "name": "Asian Pickled Vegetables",
     "url": "https://raw.github.com/sinker/tacofancy/master/condiments/pickled_vegetables.md",
     "recipe": "__Whisk:__\n\n* 1/4 cup rice vinegar\n* 2 teaspoons sugar\n* 1 teaspoon soy sauce\n* 1 teaspoon fish sauce\n* Some red pepper flakes\n\n__Then toss in some sliced vegetables. Suggestions include:__\n\n* cucumbers\n* carrots\n* onions\n* radishes\n\nMix, cover and chill in fridge for at least 30 minutes before using.\n",
-    "slug": "asian_pickled_vegetables"
+    "slug": "asian_pickled_vegetables",
+    "uuid": "2f032490-64eb-11ea-820b-acde48001122"
   },
   {
     "name": "Beet Salsa",
     "url": "https://raw.github.com/sinker/tacofancy/master/condiments/beet_salsa.md",
     "recipe": "Tired of plain ol' [Carne Asada Tacos](../base_layers/chooped_steak.md)? Get exotic with beet salsa.\n\n* 4 - 6 Roma tomatoes\n* 1 - 2 Serrano pepper\n* Reasonably sized onion (green or vidalia)\n* 10 garlic cloves (leave it up to your buds, I like 10 or more)\n* Salt and pepper to taste\n* 1 bunch of beets\n* 1 or more lemons\n\nFry tomatoes, pepper(s), onion and garlic in a pan until they are brown and tomato skins are peeling away. Move ingredients to the blender and pur\u00e8e. Chop beets to a blendable size and add to salsa. Add salt and pepper to taste. Squeeze in desired amount of lemon and blend one more time.\n\ntags: vegetarian, vegan\n",
-    "slug": "beet_salsa"
+    "slug": "beet_salsa",
+    "uuid": "2f032d96-64eb-11ea-820b-acde48001122"
   },
   {
     "name": "Vindaloo Sauce",
     "url": "https://raw.github.com/sinker/tacofancy/master/condiments/vindaloo_sauce.md",
     "recipe": "Vindaloo sauce can be prepared or store bought.\nVindaloo is an Indian curry sauce that is popular in the Goa region of India. \n\n",
-    "slug": "vindaloo_sauce"
+    "slug": "vindaloo_sauce",
+    "uuid": "2f03369c-64eb-11ea-820b-acde48001122"
   },
   {
     "name": "Simple Salsa Verde",
     "url": "https://raw.github.com/sinker/tacofancy/master/condiments/simple_salsa_verde.md",
     "recipe": "I got this base recipe from a vegan friend. If you can't find one of these peppers, swap in another one!\n\n* 6 Average-sized tomatillos\n* 1 Poblano pepper\n* 1 Serrano pepper\n* 1 Jalapeno pepper\n* 1 Sweet red pepper\n* Juice of 1 or 2 fresh-squeezed limes (to taste)\n* Pinch or two kosher salt (to taste)\n\nYou're in charge of the heat here. For a milder salsa, remove all the ribs and seeds inside the peppers. For medium, leave in a few ribs, and for hot, go nuts. Rough chop the peppers and tomatillos, then throw into a blender or food processor with salt and lime juice. Pulse to desired consistency.\n\nAs with most salsas, this will taste better if you let it sit in the fridge for a few hours before eating. It's great on chips or drizzled over steak or pork tacos.\n\ntags: vegetarian, vegan\n",
-    "slug": "simple_salsa_verde"
+    "slug": "simple_salsa_verde",
+    "uuid": "2f033f84-64eb-11ea-820b-acde48001122"
   },
   {
     "name": "Black Olives",
     "url": "https://raw.github.com/sinker/tacofancy/master/condiments/black_olives.md",
     "recipe": "Canned black olives add a sweet and cool meatiness to a traditional American taco.\n\ntags: vegetarian, vegan\n",
-    "slug": "black_olives"
+    "slug": "black_olives",
+    "uuid": "2f0355dc-64eb-11ea-820b-acde48001122"
   },
   {
     "name": "Guacamole (Simple)",
     "url": "https://raw.github.com/sinker/tacofancy/master/condiments/guacamole_simple.md",
     "recipe": "If you're not in the mood to be fussy, this could be considered a minimum-viable guacamole recipe.\n\n* 2 ripe avocados\n* 2-4 limes, depending on juiciness, delivering 2-4T of lime juice\n* 1 diced tomato (seeded if it's a big one)\n* salt (to taste)\n* hot sauce (to taste; Frank's Red Hot is a standard, but go with what you like)\n\n1. Scoop the avocado meat into a bowl and mash them with a fork. Leave it a bit lumpy as we will do more stirring in a bit and we don't want to over-work them.\n2. Add the chopped tomato.\n3. Add the lime juice; hold some back for later adjustment).\n4. Add \u00bdt salt.\n5. Add 2T hot sauce.\n6. Stir with the fork again.\n7. Taste.\n8. Adjust salt/lime/hot sauce as desired.\n\nThis recipe will support one average-size bag of chips, so adjust quantities based on expectations.\n\ntags: vegetarian\n",
-    "slug": "guacamole_simple"
+    "slug": "guacamole_simple",
+    "uuid": "2f036040-64eb-11ea-820b-acde48001122"
   },
   {
     "name": "Pickled Red Onions",
     "url": "https://raw.github.com/sinker/tacofancy/master/condiments/pickled_red_onions.md",
     "recipe": "My wife made this recipe up, after eating something similar, but if you are making brisket tacos, it is the most wonderful accessory:\n\n__Ingredients__\n\n* Vinegar\n* 2 chopped red onions\n* 1 tablespoon of sugar\n* a dash of chili powder\n\nChop the red onions into rings and put them into a container of vinegar. Add the sugar and store the mixture in your refrigerator to marinate and pickle, the longer the better.\n\nPick out the rings and place them on your brisket taco. Eat.\n\nVariations\n----------\n\nPickled onions are a favorite in the Von Doom house, too. [@littlewhirl](http://twitter.com/littlewhirl) played around with a similar starting point and we use this brine instead:\n\n* 1/2 cup apple cider vinegar\n* 1 T Sugar (I usually use coconut palm sugar because I'm a hippie I guess)\n* Water\n* 1 1/2 tsp salt\n* 1 sprig fresh oregano and/or cilantro (optional)\n\nSlice 1 red onion on a mandolin (WORTH IT). In a bowl melt the sugar and salt with some warm/hot water. Add vinegar and 1c of filtered water.\nAdd in onion, top off w/ water so that the onion is just covered.\nVERY IMPORTANT: Let sit at room temp for at least an hour. Trust me.\n\nThe apple cider vinegar is a tangier but also more subtle, keeping more of the onion flavor there. And using a partial salt water brine lets it work nice for quick pickles, but also for slightly longer engagements. Leading to the most important aspect:\n\nPICKLE ALL THE THINGS\n---------------------\n\nSeriously. All the things. Pickle your fridge. Pickle your waffles. Make. Lots. Of. Pickles.\n\n* __Cabbage__ \u2014 red or green work. You only need an hour or so (like onions)\n* __Jalepe\u00f1os__ \u2014 seriously GTFO these are good. Add dill for a twist. Add parboiled carrots if you want to cut the spice\n* __Greenbeans__ \u2014 because greenbeans are goddam delicious\n* __Toy cars \u2014 kid with an attitude? Pickle their favorite toy car. Let's see them try to cop a tude when their matchbox cars are soggy and briney\n* __Cauliflower__ \u2014 personal favorite. Pickles in an hour, super delicious\n* __Baby corn__ \u2014 baby corn is gross, but if you pickle it you can make jokes about how big all the other things you pickled are\n\ntags: vegetarian, vegan\n",
-    "slug": "pickled_red_onions"
+    "slug": "pickled_red_onions",
+    "uuid": "2f0369f0-64eb-11ea-820b-acde48001122"
   },
   {
     "name": "Roasted Tomatillo and Mushroom Sauce",
     "url": "https://raw.github.com/sinker/tacofancy/master/condiments/roasted_tomatillo.md",
     "recipe": "* 2 pounds tomatillos\n* 4 dried chipotle chiles\n* 2 pounds shiitake mushrooms\n* 1/4 cup olive oil\n* 1 cup water\n\n1. Remove husks from tomatillos and rinse them. Place them whole on your oven's broiler rack. Broil and turn them until they're browned on all sides.\n2. Boil the water. Drop in the dried chiles and bring the water down to a simmer. Keep them in until they are soft.\n3. Slice the shiitakes and cook them in a pan with the olive oil until they're tender.\n4. Take the chiles and tomatillos (once they're cooled off) and blend them in a food processor until they make a nice puree.\n5. Put the blended tomatillo-chile mixture in a saucepan and bring it to a boil. Add the cooked mushrooms and bring it back to a boil. Then bring the heat down until the mixture is simmering. Cook for about 10 minutes. Add salt to taste.\n\n---\nA friend gave me this recipe a while back, but I can't remember who it was. Sorry, friend.\n\ntags: vegetarian, vegan\n",
-    "slug": "roasted_tomatillo_and_mushroom_sauce"
+    "slug": "roasted_tomatillo_and_mushroom_sauce",
+    "uuid": "2f037616-64eb-11ea-820b-acde48001122"
   },
   {
     "name": "Sour Cream",
     "url": "https://raw.github.com/sinker/tacofancy/master/condiments/sour_cream.md",
     "recipe": "Cool and tart, sour cream is an almost-essential part of the traditional American taco, and many others as well.\n\ntags: vegetarian\n",
-    "slug": "sour_cream"
+    "slug": "sour_cream",
+    "uuid": "2f037ee0-64eb-11ea-820b-acde48001122"
   },
   {
     "name": "Cilantro and Onion",
     "url": "https://raw.github.com/sinker/tacofancy/master/condiments/cilantro_and_onion.md",
     "recipe": "Chop up some cilantro and onion (any variety) and  put them on any taco.\n\ntags: vegetarian, vegan",
-    "slug": "cilantro_and_onion"
+    "slug": "cilantro_and_onion",
+    "uuid": "2f0387dc-64eb-11ea-820b-acde48001122"
   },
   {
     "name": "Lime",
     "url": "https://raw.github.com/sinker/tacofancy/master/condiments/lime.md",
     "recipe": "Cut a lime into quarters or eights and squeeze juice onto any taco.\n\n*You may omit this ingredient when limes are out of season.*\n\ntags: vegetarian, vegan",
-    "slug": "lime"
+    "slug": "lime",
+    "uuid": "2f039092-64eb-11ea-820b-acde48001122"
   },
   {
     "name": "Creamy Mustard Sauce",
     "url": "https://raw.github.com/sinker/tacofancy/master/condiments/creamy_mustard_sauce.md",
     "recipe": "Originally a sauce used on sandwiches until one day I ran out of sour cream for my tacos. This recipe is meant to be \"eye-balled.\"\n\n\n__Ingredients__\n\n* 1/2 part Ranch dressing\n* 1/4 part Yellow Mustard\n* 1/4 part Grey Poupon Harvest Course Ground Mustard\n\n__Directions__\n\n1. Mix all ingredients in container.\n2. Add to tacos, and anything else you'd like.\n3. Store in closed container in fridge.\n\ntags: vegetarian",
-    "slug": "creamy_mustard_sauce"
+    "slug": "creamy_mustard_sauce",
+    "uuid": "2f039ca4-64eb-11ea-820b-acde48001122"
   },
   {
     "name": "Salsa de chile de \u00e1rbol",
     "url": "https://raw.github.com/sinker/tacofancy/master/condiments/chile_de_arbol_sauce.md",
     "recipe": "This is a go-to taco sauce in western Mexico and probably elsewhere. You can\nmix and match the techniques in the two variants presented here, and substituting\nor adding chiles is a ramp onto the combinatorial superhighway of Mexican food and\ncan demystify the salsa bar at the local taquer\u00eda.\n\n# Red\n\n* dried whole *chiles de \u00e1rbol*\n* tomatoes\n* onion\n* *optionally*, garlic\n\nTake between .3 and 1 chiles per tomato, remove the stems and put them in a\nsaucepan with a tablespoon or two of oil (olive, soy, etc.) The pan and oil should be very\nhot and the chiles should seem to be at risk of burning. Rotate the\nchiles around and let them get dark brown to black without actually burning them \u2014\nthis can happen quickly, which is good because your eyes, nose, and lungs\nmay reach their maximum vaporized chile tolerance during this step.\n\nAdd a bunch of chopped onion and garlic and lower the heat. Cut the tomatoes\nin half and throw them in with salt to taste. Cook until the tomatoes look stewed.\nIf you have one of those blender wands that you can put directly in a saucepan,\nyou can blend everything now (you may end up making this sauce frequently enough\nto justify the purchase of a blender wand.) Otherwise wait until the mixture\nis not hot and blend it in a standard blender.\n\n# Green\n\n* dried whole *chiles de \u00e1rbol*\n* green tomatillos\n* onion\n* cilantro\n\nTake between .1 and .5 chiles per tomatillo, remove the stems and put them in a bare, hot saucepan.\nToast the chiles without oil until they are dark. Add halved or quartered tomatillos, salt, and a\ntablespoon or two of water to prevent burning the chiles before the tomatillos release\ntheir juices. When the mixture has cooked for as long as you can stand to wait, remove\nthe heat and let it cool. Blend and place in a little salsa bowl and heap with finely\nchopped onion and cilantro.\n\nOne non-obvious little point is that skipping the oil in the chile roasting-toasting\nstep seems to increase the spiciness of the final product.\n\ntags: vegetarian\n",
-    "slug": "salsa_de_chile_de_arbol"
+    "slug": "salsa_de_chile_de_arbol",
+    "uuid": "2f03a532-64eb-11ea-820b-acde48001122"
   },
   {
     "name": "Yogurt",
     "url": "https://raw.github.com/sinker/tacofancy/master/condiments/yogurt.md",
     "recipe": "Plain Balkan or Greek type yogurts add flavour and moisture. May be used as an\nalternative to sour cream. While sweet and fruit flavoured yogurts are not\nrecommended, speciality yogurt dips such as jalapeno provide delicious\nvariation.\n\ntags: vegetarian\n",
-    "slug": "yogurt"
+    "slug": "yogurt",
+    "uuid": "2f03ae24-64eb-11ea-820b-acde48001122"
   },
   {
     "name": "Cashew Cheeze",
     "url": "https://raw.github.com/sinker/tacofancy/master/condiments/cashew_cheeze.md",
     "recipe": "This is a good dairy sub but also just pretty damn delicious.\n\n* 1 cup raw organic cashews\n* 4 cups hot water\n* 1 small lemon, juiced and zested\n* 1/2 teaspoon salt (you can also play with other spices: garlic, cayenne, cumin etc. Go crazy!)\n* 2 tablespoons nutritional yeast\n* 1 roasted jalepeno (for spicy cheeze)\n\nIn a large bowl add the raw cashews and hot water. Cover with a kitchen towel and allow to soak for 2-4 hours. Drain the cashews and rinse well.\nAdd the soaked cashews, salt, nutritional yeast, jalepeno and the lemon juice in a blender or food processor. Blend on high and stir frequently scraping down the sides of the bowl. Keep processing the mixture until it is very smooth, and there are no lumps.\nFold in the lemon zest (optional) and add to a serving bowl. You can also add a bit more water to get more of a creamy texture and store in a squeeze bottle (That's my preference anyway).\n\ntags: vegetarian, vegan\n",
-    "slug": "cashew_cheeze"
+    "slug": "cashew_cheeze",
+    "uuid": "2f03b7b6-64eb-11ea-820b-acde48001122"
   },
   {
     "name": "Garlic Lime Sauce",
     "url": "https://raw.github.com/sinker/tacofancy/master/condiments/garlic_lime_sauce.md",
     "recipe": "This sauce packs a creamy, sour, garlicky punch and can cut the heat on a spicy salsa. It pairs well with Mango Lime Salsa for excellent fish tacos. This is a simplified version of the [lime sauce recipe](http://www.loveandoliveoil.com/2008/04/fish-tacos-with-mango-salsa.html) on Love and Oil.\n\nCombine in a bowl:\n* 1-2 tablespoons mayonnaise\n* 1/2 cup plain yogurt\n* 2 tablespoons fresh lime juice\n* 1-2 cloves minced garlic\n* salt to taste\n* (optional): chopped fresh cilantro garnish\n\nWhisk ingredients together in bowl.\n\nServe on the side, or drizzle as a decorative layer onto prepared tacos. Optionally sprinkle with chopped cilantro as garnish.\n\ntags: vegetarian\n",
-    "slug": "garlic_lime_sauce"
+    "slug": "garlic_lime_sauce",
+    "uuid": "2f03c332-64eb-11ea-820b-acde48001122"
   },
   {
     "name": "Mango Lime Salsa",
     "url": "https://raw.github.com/sinker/tacofancy/master/condiments/mango_lime_salsa.md",
     "recipe": "This fresh mango salsa is sweet, tangy, and simple. It pairs exceedingly well with Garlic Lime Sauce for delicious fish tacos. The recipe is a simplified version of the [mango salsa](http://www.loveandoliveoil.com/2008/04/fish-tacos-with-mango-salsa.html) on Love and Oil.\n\nIn a bowl, combine:\n* 2 ripe fresh mangoes, chopped\n* 1/2 cup diced sweet onion\n* 1-2 tablespoons chopped fresh cilantro\n* Juice of 1 fresh lime\n* (optional): 1/2 fresh jalapeno, diced\n\nStir and serve.\n\ntags: vegetarian, vegan\n",
-    "slug": "mango_lime_salsa"
+    "slug": "mango_lime_salsa",
+    "uuid": "2f03cc1a-64eb-11ea-820b-acde48001122"
   },
   {
     "name": "Salsa de Aguacate",
     "url": "https://raw.github.com/sinker/tacofancy/master/condiments/salsa_de_aguacate.md",
     "recipe": "This is the traditional green sauce served from a Mexican taco cart. Very popular with Tacos al Past\u00f3r or Tacos de Canasta, it is a creamy, green sauce. It has avacado, but it by no means a guacamole. Usually available with other taco cart staples such as: sliced radishes, spicy salsa roja, fresh cilantro, and fresh limes.\n\n* 1/2 Kilo of Green Tomatillos (~1lb.)\n* 2 green Serrano peppers (optional for heat)\n* 1 avocado\n* 2 limes\n* 1/2 cup crema (Mexican sour cream, thinner and sweeter than standard sour cream)\n\nCook the tomatillos and peppers in a pot with water until soft. Drain the water out and let cool.\n\nPut tomatillos, peppers, salt, lime-juice, crema, and avacado (shelled and pitted) in blender. With lid on, blend until completely mixed and liquid consistency. Salsa should be the consistency of crema, liquid, yet slightly viscous.\n\nPour over your tacos liberally. Refrigerate between uses.\n\ntags: vegetarian\n",
-    "slug": "salsa_de_aguacate"
+    "slug": "salsa_de_aguacate",
+    "uuid": "2f03d50c-64eb-11ea-820b-acde48001122"
   },
   {
     "name": "Asian Cabbage Slaw",
     "url": "https://raw.github.com/sinker/tacofancy/master/condiments/asian_cabbage.md",
     "recipe": "Add this to [Asian Style Tacos](/full_tacos/asian_style_tacos.md) for a taste sensation.\n\nIngredients\n-----------\n\nFor the dressing:\n\n* 1 lime, juiced\n* 2 Tbs Rice vinegar\n* 2 tsp sugar\n* 1 Tbs toasted sesame oil\n* 1 Tbs olive oil\n* a squirt or two of sriracha\n* pinch of salt\n\nFor the slaw:\n\n* 1/2 head cabbage, chopped thin (slaw style)\n* 2 spring onions (scallions), chopped.\n* some cilantro, chopped up, to taste\n\nDirections\n----------\n\n1. Combine all the dressing ingredients in a big bowl, whirl them together until the sugar dissolves. Adjust the amount of sriracha in there to the heat you want your dressing to be.\n\n2. Toss the chopped cabbage, onions, and cilantro in with the dressing.\n\n3. Mix until everything is lightly dressed.\n\nYAY EVERYTHING.\n\ntags: vegetarian, vegan\n",
-    "slug": "asian_cabbage_slaw"
+    "slug": "asian_cabbage_slaw",
+    "uuid": "2f03eb28-64eb-11ea-820b-acde48001122"
   },
   {
     "name": "Chipotle Pineapple Sauce",
     "url": "https://raw.github.com/sinker/tacofancy/master/condiments/chipotle_pineapple_sauce.md",
     "recipe": "Chipotle Pineapple Sauce\n\nIngredients\n\n    250 g chopped fresh pineapple\n    1 minced onion\n    15 ml olive oil\n    2-3 chipotle peppers, with surrounding adobo sauce from can\n    120 ml water\n\nDirections\n\n    Sautee the onion in the oil until translucent\n    Add pineapple and let cook for just a couple minutes\n    Add water and peppers and sauce and cook until reduced to just thinner than a paste\n\ntags: vegetarian, vegan\n",
-    "slug": "chipotle_pineapple_sauce"
+    "slug": "chipotle_pineapple_sauce",
+    "uuid": "2f03f62c-64eb-11ea-820b-acde48001122"
   },
   {
     "name": "Above Average Tomato Sauce",
     "url": "https://raw.github.com/sinker/tacofancy/master/condiments/tomato_sauce_above_average.md",
     "recipe": "## Ingredients\n\n* 1 24oz jar or can of crushed tomatos or tomato puree\n* 1 T olive oil\n* 1/4 to 1/2 of a medium onion\n* 2 cloves garlic\n* 1 red bell pepper\n* 1 t Italian seasoning\n* salt to taste\n\n## Instructions\n\n1. Chop onion, garlic and pepper.\n2. Heat olive oil in a skillet and sautee the onion and garlic until the onion is translucent.\n3. Add salt, Italian seasoning and bell pepper and sautee until the pepper begins to soften.\n4. Add crushed tomatos and simmer while the rest of your meal cooks.\n\ntags: vegan, vegetarian\n",
-    "slug": "above_average_tomato_sauce"
+    "slug": "above_average_tomato_sauce",
+    "uuid": "2f040040-64eb-11ea-820b-acde48001122"
   },
   {
     "name": "Homemade Kimchi",
     "url": "https://raw.github.com/sinker/tacofancy/master/condiments/kimchi.md",
     "recipe": "Kimchi will take your taco in a decidedly unrestrained asian direction, but comfort zones were made to be broken. It takes some time to make, as fermentation needs to take place. It also may take some time to acquire a taste for it, but it's worth the effort.\n\n__Ingredients__\n\n* 1 napa cabbage\n* 1/2 cup kosher salt\n* 12 cups cold water (more if needed)\n* 8oz daikon radish, cut into matchstick-size strips.\n* 4 scallions, cut into 1-inch pieces\n* 1/3 cup Korean red pepper powder\n* 1/4 cup fish sauce\n* 1/4 cup minced fresh ginger\n* 1 tablespoon minced garlic\n* 2 teaspoons minced Korean salted shrimp\n* 1 1/2 teaspoons sugar\n\n__Directions__\n\n1. Split the cabbage in half lengthwise, then crosswise into 2-inch pieces; discard the root. Put the cabbage into a large bowl with the salt and toss until the salt is evenly distributed. Add cold water to cover, making sure the cabbage is submerged. Cover with saran wrap and let it sit at room tempurature anywhere form 12-24 hours.\n2. Drain the cabbage and rinse in cold water. Gently squeeze to get as much liquid out as you cam, and set the cabbage aside in a smaller bowl.\n3. Add the remaining ingredients to the large bowl and mix it all up. Add the cabbage and toss until the cabbage is thoroughly covered. \n4. Pack it all into a 2 quart glass jar and close it up. Make sure you get a tight seal.\n5. Stick the jar in a dark place for about 24 hours. Open the lid to let out the gasses that have been wanting to get out, then close it up again and put it in the fridge.\n6. Wait two more days, and voila, you have kimchi. Some people sya that it's best to wait at least a week before eating; it will last about a month.\n\nLots of other vegetables can be added; play around with it.\n\n__Pur\u00e9ed Kimchi__\n\nThanks to Momofuku, we know that pur\u00e9eing kimchi takes a lot of the sweater smell out of it, and creates a smoother and rounder flavor, and is fantastic for squeezing onto tacos.",
-    "slug": "homemade_kimchi"
+    "slug": "homemade_kimchi",
+    "uuid": "2f040c34-64eb-11ea-820b-acde48001122"
   },
   {
     "name": "Cranberry Salsa",
     "url": "https://raw.github.com/sinker/tacofancy/master/condiments/cranberry_salsa.md",
     "recipe": "Ingredients\n------------\n* 1 bag cranberries\n* 1 cup water\n* 3/4 cup sugar\n* half a small white onion (chopped)\n* 1 jalepe\u00f1o, chopped small (remove seeds & wash for less heat)\n* 1 bunch cilantro (cut up)\n* 1 lime\n\nDirections\n-----------\n1. In a saucepan, get your water and sugar boiling, then add the cranberries. Boil until the cranberries pop (5-10 minutes), then take off heat, drain, and cool. They'll be slightly jelly-like, but you don't want them to disintegrate entirely, so watch them closely.\n\n2. While the cranberries are cooling, chop your white onion, your jalepe\u00f1o and cilantro.\n\n3. Once your berries are cool, they'll probably have turned gooey. If there is still a bunch of water, drain it. But it's probably turned to jelly.\n\n4. Combine everything, and give a good squeeze of lime over the whole thing. As you combine, you'll notice that the cranberries just give up their shape entirely. Also: Don't wear your finest clothing when you do this--this shit _stains_.\n\n5. Make adjustments based on taste here. Your main variables are:\n\t* Sweet vs tangy. Default right now is tangy. Add more sugar for sweet.\n\t* Battling the overwhelmingness of the cranberries. You've got two things going with the cranberries here: flavor and texture. More onion will add more crunch to the whole thing, and help boost up the salsa-ness. Jalepe\u00f1o is your heat adjustment--seeds are your friend. But the Cilantro is your big mover here: it helps to round out the sharpness of the cranberry. Lime also helps bring down the cranberry overload.\n\n\nOrange Cranberry Salsa Holographic Varient Cover\n------------------------------------------------\n\n* Go with half a cup of OJ and half a cup of water to boil your berries in.\n* Compliment the lime juice with a fresh squeezed orange and then *zest* that motherfucker right into the salsa\n\ntags: vegetarian, vegan\n",
-    "slug": "cranberry_salsa"
+    "slug": "cranberry_salsa",
+    "uuid": "2f041846-64eb-11ea-820b-acde48001122"
   },
   {
     "name": "Mango Avocado Pico",
     "url": "https://raw.github.com/sinker/tacofancy/master/condiments/mango_avocado_pico.md",
     "recipe": "Mango Avocado Pico de Gallo\n\nIngredients:\n\n1 c. small cubes of mango (about 1 medium to large RIPE mango - not too mushy, though)  \n1 small avocado, cubed\n1/2-1 large jalapeno pepper (1/2 without seeds will give you a nice, mild-medium heat - add from there)  \n1/4 c. chopped cilantro  \n1/4 of a medium red onion, finely chopped  \nJuice of 1 lime  \n2-3 cloves garlic, minced  \nKosher or sea salt to taste  \nDash of chipotle pepper flakes or chipotle tabasco sauce if smoke is your thing\n\nInstructions:\n\nCombine ingredients. Best served immediately, but will keep for a day. Excellent topping for fish or chicken tacos, or served just with chips.\n\ntags: vegetarian, vegan\n",
-    "slug": "mango_avocado_pico"
+    "slug": "mango_avocado_pico",
+    "uuid": "2f042ed0-64eb-11ea-820b-acde48001122"
   },
   {
     "name": "European Sour Cream",
     "url": "https://raw.github.com/sinker/tacofancy/master/condiments/european_sour_cream.md",
     "recipe": "It is hard to find sour cream in Europe. This is a suitable alternative using more readily available ingredients.\n\n* 1 cup cr\u00e8me fra\u00eeche\n* juice of 1 lime\n* pinch of salt\n\nCombine ingredients. Serve immediately or refrigerate.\n\ntags: vegetarian\n",
-    "slug": "european_sour_cream"
+    "slug": "european_sour_cream",
+    "uuid": "2f04375e-64eb-11ea-820b-acde48001122"
   },
   {
     "name": "charred corn",
     "url": "https://raw.github.com/sinker/tacofancy/master/condiments/charred_corn.md",
     "recipe": "charred corn\n=========\n* 6-8 ears of very fresh sweet corn.\n* Canola, peanut or other high-heat vegetable oil.\n* Sheet pan covered with tin foil.\n* Good long tongs.\n* Large metal bowl.\n\n1. Prepare the oven for broiling by moving a single rack to the highest level. It should be no closer than 2-3 inches from the broiler.\n2. Under this rack set the second rack and the sheet pan covered with tin foil to catch drips from the corn.\n3. Brush each ear of corn lightly with oil.\n4. Pull out top rack halfway and place the corn directly on the rack.\n5. Push the rack in and turn on the broiler.\n6. Watch the corn. You're looking for some fairly blackened bits and lots of dark brown.\n7. Note: Do not let the corn catch on fire.\n8. Turn the corn one quarter turn with the tongs. Repeat until each corn ear is fairly dark brown.\n9. Remove the corn ears to the large metal bowl they are fully turned and browned/charred.\n10. Turn off the broiler.\n11. Let the corn cool for 15 minutes or until you can touch it.\n12. Stand an ear of corn up on the bottom.\n13. Using your sharpest knife, start at the top of the corn ear and slice down through the kernels. They will come off in sheets.\n14. Turn the corn a quarter or a fifth turn and repeat until you've removed the kernels. Note: Some will stick at the top and bottom.\n15. Do this for each ear of corn.\n16. Now you have a bowl full of kernels. Mix with lime juice (2 limes?) and 3-6 oz of cotija to make a corn salad.\n17. BONUS: Freeze the cobs. Later, make corn stock by boiling the cobs for an hour in 2 gallons of water. Remove the cobs and reduce to about 2 quarts. Use with grits or as a soup base.\n",
-    "slug": "charred_corn"
+    "slug": "charred_corn",
+    "uuid": "2f04401e-64eb-11ea-820b-acde48001122"
   },
   {
     "name": "Onions and Cilantro",
     "url": "https://raw.github.com/sinker/tacofancy/master/condiments/onions_and_cilantro.md",
     "recipe": "Onions and Cilantro\n=============\n* 1 white onion, peeled.\n* Bunch of cilantro, long bottom stems removed (stems between leaves are fine).\n* Juice of one lime.\n\n1. Dice white onion into 0.50 inch dice.\n2. Roughly chop cilantro.\n3. Add onion and cilantro to a bowl with the lime juice and mix thoroughly.\n4. Store in an airtight container for up to a week.",
-    "slug": "onions_and_cilantro"
+    "slug": "onions_and_cilantro",
+    "uuid": "2f044942-64eb-11ea-820b-acde48001122"
   }
 ]

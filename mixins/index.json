@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Sweet Potato and Apple Hash",
+    "url": "https://raw.github.com/sinker/tacofancy/master/mixins/sweet_potato_and_apple_hash.md",
+    "recipe": "Sweet potatoes are my go-to taco punch-up. I was going my normal route of making small (1/4\" or so) cubes of sweet potatoes when I thought: Hey, it's fall, I'm going to add an apple in there. Fuck yes.\n\n* 2 Small sweet potatoes (you'd be amazed how little sweet potato you need for tacos)\n* 1 Small apple\n* One can diced green chilis\n* A couple pinches of chili powder\n* A squeeze of honey\n* Pat o' butter\n\nMix this all into a pan, with about 1/4 cup of water, and boil it all up until the water goes away, toss in the butter, and continue to pan-fry until things get a little browned. \n\ntags: vegetarian\n",
+    "slug": "sweet_potato_and_apple_hash"
+  },
+  {
+    "name": "Potato Hash",
+    "url": "https://raw.github.com/sinker/tacofancy/master/mixins/Potato_hash.md",
+    "recipe": "* 6 or so small yukon gold poatoes\n* 4 green onion, chopped\n* 1/2 small can of green chiles\n* olive oil\n* coarse salt\n* 1/4t chili powder\n* dash cumin\n* 1/4t garlic powder\n* Nutrional yeast (optional)\n\n\nPeel and dice potatoes, throw in a pan with a 1/4 or so of water, cover and cook on medium-high until potatoes are soft.\nOnce potatoes are soft, lower to medium heat add green onions, chiles, spices and olive oil. Cook until hash-like. BOOM.\n\ntags: vegetarian, vegan\n",
+    "slug": "potato_hash"
+  },
+  {
+    "name": "Traditional Taco Mixins",
+    "url": "https://raw.github.com/sinker/tacofancy/master/mixins/traditional_taco_mixins.md",
+    "recipe": "Traditional Taco Mixins\n(makes about 20 servings)\n\n- 1 (16 ounce) container sour cream\n- 1/4 head iceberg lettuce (rinsed, dried, shredded)\n- 1 cup shredded cheddar cheese\n- 3 diced tomatoes\n- 1 (2.25 ounce) can black olives, drained\n\nAdd ingredients to tacos in layers. \n\ntags: vegetarian\n\n",
+    "slug": "traditional_taco_mixins"
+  },
+  {
+    "name": "Green Chile Cabbage Salad",
+    "url": "https://raw.github.com/sinker/tacofancy/master/mixins/green_chile_cabbage_salad.md",
+    "recipe": "#### Ingredients\n* 1 green cabbage\n* 4 limes\n* 2 ears corn, or roughly two cups of corn kernels (adjust to desired corn-y-ness)\n* Dried, Powdered New Mexico Green Chile, to taste\n* Salt, to taste\n* Olive oil\n* Optional: some crumbled cotija or queso Oaxaqueno\n\n#### Directions\n1. If using ears of corn, strip the kernels from them with a sharp knife.\n2. Heat a few tablespoons of oil over high heat. I like to use a Dutch Oven for this, but the main cookware properties you want are heavy-bottomed and wide.\n3. Toss the corn kernels in to the oil, spread them evenly, salt very lightly and let them ride. I _highly_ recommend a splatter guard for this step, but **not** a lid. You want the corn to dry out just a little and get a good sear. It's done when it's starting to get dark, a little chewy, and probably is sticking to the pan.\n4. While the corn is going, core and chop the cabbage in to wide strips.\n5. How's the corn doing?\n6. Juice the limes.\n7. How's the corn doing? If it's not done yet, grab a beer and hang out 'til it is.\n8. The corn is done? Great. Toss it on top of the cabbage. Add a little salt, then a good hit of olive oil, then half-or-so of the lime juice. Toss in a good tablespoon or two of the green chile powder. Start stirring.\n9. You want everything coated nicely, but I don't like the salad too oily, so go easy on that. I add lime until the sour balances the sweet of the corn. I add green chile slowly -- it takes a second to rehydrate and get hot. I might add as much as a half cup of the stuff to a salad for myself or spicy food fans like me; I go easier on the spice-unenthused.\n10. Serve it! If you're in to tossing a little cheese on there, do it -- but I usually just eat it straight. Sometimes this goes on fish or chicken tacos; sometimes it's a side to richer pork tacos. It's always awesome.\n\n**Note on ingredients**: green chile is the gastronomical life blood of New Mexican cuisine, but it's little known in the other 49 states. I like a brand called [_Los Chileros de Nuevo Mexico_](http://www.loschileros.com/), which I can find sometimes in tiendas and other times at Whole Foods (go figure). The trick here is this: just don't accept substitutes. It's not the same. I've also had to accept that fresh chile is just not what this salad needs, so don't do that either (it doesn't distribute well enough across the cabbage). Do have this with cold, crisp beer.\n\ntags: vegetarian, vegan\n",
+    "slug": "green_chile_cabbage_salad"
+  },
+  {
+    "name": "Tomatoes (Traditional; US)",
+    "url": "https://raw.github.com/sinker/tacofancy/master/mixins/tomatoes_traditional_us.md",
+    "recipe": "Adding a bit of coolness and moisture, tomatoes are a staple ingredient of the American taco. The better the tomato the more flavor they will impart, but even a sub-sandard grocery store tomato has a place in a traditional taco.\n\n* Tomatoes (diced)\n* Cherry Tomatoes (quartered)\n* Grape Tomatoes (sliced)\n\ntags: vegetarian\n",
+    "slug": "tomatoes_traditional_us"
+  },
+  {
+    "name": "Corn Salad",
+    "url": "https://raw.github.com/sinker/tacofancy/master/mixins/Corn_Salad.md",
+    "recipe": "* 2 Ears of corn\n* 1 Lime, juiced\n* Small handful of Cilantro, chopped\n* A few green onions, chopped\n* Garlic salt, or Garlic AND salt. I use Trader Joe's Garlic Salt in the grinder usually.\n\nCut the corn off of the cob, and in a mixing bowl mix together corn, lime juice, chopped cilantro and garlic salt. You can tweak any of this stuff as desired.\n\n---\nThis is my first Github commit. I'm glad it's taco related.\n\ntags: vegetarian, vegan\n",
+    "slug": "corn_salad"
+  },
+  {
+    "name": "Cheese (Traditional; US)",
+    "url": "https://raw.github.com/sinker/tacofancy/master/mixins/cheese_traditional_us.md",
+    "recipe": "A major flavor component of a traditional American taco, select a cheese that's firm and sharp.\n\n* Cheddar (shredded)\n* Jack/Pepper Jack (shredded)\n\ntags: vegetarian\n",
+    "slug": "cheese_traditional_us"
+  },
+  {
+    "name": "Lettuce (Traditional; US)",
+    "url": "https://raw.github.com/sinker/tacofancy/master/mixins/lettuce_traditional_us.md",
+    "recipe": "In a traditional American taco, lettuce serves to add extra crunch and coolness. Favor the bulkier lettuces over leafier fare such as Bibb lettuces or mesclun.\n\n* Iceberg Lettuce (shredded)\n* Romaine Lettuce (shredded; maintain the stalks)\n\ntags: vegetarian, vegan\n",
+    "slug": "lettuce_traditional_us"
+  },
+  {
+    "name": "Veggies for Fish Tacos",
+    "url": "https://raw.github.com/sinker/tacofancy/master/mixins/veg_for_fish_tacos.md",
+    "recipe": "Fish tacos are a special breed, requiring different vegetable options.\n\n__Assemble your veg from the following options:__\n\n* Cabbage, purple, shredded\n* Cabbage, other shades, shredded\n* Radishes, sliced into thin slices\n* Red peppers, diced\n* Cherry tomatoes, sliced (if you're a heathen)\n* Cilantro, if it doesn't taste like soap to you\n\nAnd one requirement:\n* Limes, sliced for juicing over tacos.\n\nPlace out your selections and assemble into your taco. Then squeeze a lime over the top.\n\ntags: vegetarian, vegan\n",
+    "slug": "veggies_for_fish_tacos"
+  },
+  {
+    "name": "Shredded Brussels Sprouts",
+    "url": "https://raw.github.com/sinker/tacofancy/master/mixins/brussels.md",
+    "recipe": "A surprising, unexpected *and delicious* green addition to your taco!\n\n* brussels sprouts\n* butter\n\n1. Shred up your brussels sprouts so that they're flaked up. You're really going for almost a slaw-level shredding here.\n\n2. Put a healthy amount of butter in a pan, melt it down with a little salt too.\n\n3. Toss the shredded sprouts in, and fry 'em up until parts of them are browned up, and other parts have turned into a bright green. You're going for partial caramelization, but not all the way.\n\nYou're not going to LOAD UP your taco with these, but they bring an amazing, mellow flavor to the mix. Especially good with fish tacos.\n\ntags: vegetarian\n",
+    "slug": "shredded_brussels_sprouts"
+  },
+  {
+    "name": "Drunken Green Beans",
+    "url": "https://raw.github.com/sinker/tacofancy/master/mixins/drunken_greenbeans.md",
+    "recipe": "Green beans are fine. Green beans cooked in beer are better. Maybe even the best.\n\n* 1 Surly fist full of green beans\n* half a beer\n* quarter cup vegetable broth\n* 2 cloves garlic\n* 1 Tbsp olive oil\n* some salt, whatever\n\nFirst peel and dice the garlic and saut\u00e9 it in the olive oil. Before it gets all burned and ruined, add the beer and vegetable broth.\n\nAs the liquid comes to a boil, cut the green beans up. Add the green beans and a pinch of salt and let them simmer for about five minutes. If you like your beans on the softer side you can let it go a little longer. But the trick is to pull them right after the color starts to turn and you've just made a delicious addition to any taco.\n\ntags: vegetarian, vegan\n",
+    "slug": "drunken_green_beans"
+  },
+  {
+    "name": "Pomegranate Seeds",
+    "url": "https://raw.github.com/sinker/tacofancy/master/mixins/pomegranate_seeds.md",
+    "recipe": "Technically called arils, pomegranate seeds are tasty little things. They pack a powerfully tart punch, and add some crunch to a taco that might need some textural assistance.\n\n__Instructions__\n\nYou want a pomegranate that feels heavy for its size and has a firm, tight skin. (Weight and firmness are indicators of how much juice is inside.)\n\nHere are two methods for getting the seeds out of the membrane:\n\n___The Water Method___\n\n1. Fill a clean sink or large bowl with cold water (not *too* cold as your hands are going to be working in the water).\n2. Use a small knife to cut out the stem end of the pomegranate, then use your hands to break the whole fruit into large pieces.\n3. Holding the large pieces under the water, use your hands to gently separate the seeds from the membrane. The papery bits will conveniently float to the surface for easy removal.\n\n___The Wooden Spoon Method___\n\n1. Use a small knife to cut out the stem end of the pomegranate, then use your hands to break the whole fruit into two halves.\n2. Loosely hold one of the halves in the palm of your hand, open side down, over a large bowl.\n3. Using a wooden spoon, smack the top, breaking loose the seeds, which will fall into your hand and through your fingers into the bowl.\n\nThis method is quick, but it takes some practice to be able to do it quickly without splashing juice. [Here's a great video demonstrating the technique.](http://lifehacker.com/5895852/deseed-a-pomegranate-in-10-seconds-using-a-wooden-spoon)\n\ntags: vegetarian, vegan\n",
+    "slug": "pomegranate_seeds"
+  },
+  {
+    "name": "Mushroom Wasabi Salad",
+    "url": "https://raw.github.com/sinker/tacofancy/master/mixins/mushroom_wasabi_salad.md",
+    "recipe": "\n- 1 cup dried shitake mushrooms \n- Splash of soy sauce\n- Splash of red wine vinegar\n- Splash of olive oil\n- Wasabi-covered sesame seeds (available at the local Asian mart. If you can't find it, sub just a smidge of wasabi)\n- Pinch of salt\n\nPlace shitakes in a bowl and cover with warm water. Soak for about 20 minutes or until shitakes are completely rehydrated. Remove mushrooms and squeeze excess water from them. They don't need to be completely dry, but shouldn't be sopping wet.\n\nHeat olive oil over medium-high heat in a small frying pan. Throw in soy sauce and red wine vinegar. How much depends on your taste. I would start with a tablespoon of each and adjust from there. I like the salad to be a bit more acidic so I tend to add a splash more of the red wine vinegar. Saut\u00e9 mushrooms for a couple of minutes until they are heated through. Season to taste with salt. Adjust soy sauce and red wine vinegar as needed. Before serving, sprinkle a little bit of the wasabi-covered sesame seeds over the mushrooms to impart a little color, crunchiness, and heat. If you are unable to find wasabi-covered sesame seeds, a dab of wasabi and sprinkle of plain sesame seeds should do the trick. \n\nNote: I keep dried shitakes as a staple in my pantry. I love the fact that the water left over after you rehydrate the mushrooms is called mushroom liquor. Mushroom liquor can be used as a substitute for broth or water in many recipes to impart an lovely mushroomy flavor.",
+    "slug": "mushroom_wasabi_salad"
+  }
+]

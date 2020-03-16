@@ -5,7 +5,7 @@ Simple read-only JSON API for https://pramodsum.github.io/tacopundit/
 
 Based on API for https://github.com/sinker/tacofancy
 
-##### Toppings
+### Toppings
 
 If you’d like to get all available topping recipes, you can call this endpoint:
 
@@ -19,7 +19,7 @@ So to get the recipe for the mango avocado pico topping, do this:
 
 ``/toppings/mango_avocado_pico.json``
 
-##### Base Layers
+### Base Layers
 
 If you’d like to get all available base layer recipes, you can call this endpoint:
 
@@ -33,7 +33,7 @@ So to get the recipe for the baja beer battered fish base layer, do this:
 
 ``/base_layers/baja_beer_battered_fish.json``
 
-##### Mixins
+### Mixins
 
 If you’d like to get all available mixins recipes, you can call this endpoint:
 
@@ -47,7 +47,7 @@ So to get the recipe for the corn salad mixins, do this:
 
 ``/mixins/corn_salad.json``
 
-##### Shells
+### Shells
 
 If you’d like to get all available base layer recipes, you can call this endpoint:
 
@@ -61,7 +61,7 @@ So to get the recipe for the fresh corn tortilla shells, do this:
 
 ``/shells/fresh_corn_tortillas.json``
 
-##### Seasonings
+### Seasonings
 
 If you’d like to get all available base layer recipes, you can call this endpoint:
 

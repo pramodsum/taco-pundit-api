@@ -2,73 +2,75 @@
 
 
 Simple read-only JSON API for https://pramodsum.github.io/tacopundit/
+
 Based on API for https://github.com/sinker/tacofancy
 
-### Main endpoint
+##### Toppings
 
-The main endpoint for the API exists at: 
+If you’d like to get all available topping recipes, you can call this endpoint:
 
-http://taco-randomizer.herokuapp.com/
+``/toppings/``
 
-Visiting that page will also get you a random taco.
+If you’d like to get a specific topping recipe, you can call this endpoint:
 
-### Use this data
+``/toppings/:topping_name``
 
-If you’d like to take advantage of the API that was put together for this, I added
-a CORS header to these paths so that you can load them from a javascript app 
-anywhere on the internet.
+So to get the recipe for the mango avocado pico topping, do this:
 
-##### Random Taco
+``/toppings/mango_avocado_pico.json``
 
-Visiting:
+##### Base Layers
 
-``/random/``
+If you’d like to get all available base layer recipes, you can call this endpoint:
 
-will get you a random Base Layer, Mixin, Condiment, Seasoning and  Shell. To
-just get a random full taco recipe, call it thusly:
+``/base_layers/``
 
-``/random/?full-taco=true``
+If you’d like to get a specific base layer recipe, you can call this endpoint:
 
-##### Contributors
+``/base_layers/:layer_name``
 
-If you’d like to get info about the contributors for a certain recipe,
-you can call this endpoint:
+So to get the recipe for the baja beer battered fish base layer, do this:
 
-``/contributors/:recipe_type/:recipe_slug/``
+``/base_layers/baja_beer_battered_fish.json``
 
-So to get the contributors for the Delengua (Beef Tounge) Base Layer, do this:
+##### Mixins
 
-``/contributors/base_layers/delengua_beef_tongue``
+If you’d like to get all available mixins recipes, you can call this endpoint:
 
-Valid layer types are: ``base_layers``, ``mixins``, ``seasonings``, ``condiments``
-and ``shells``. To get a mapping of slugs for a given recipe type call this:
+``/mixins/``
 
-``/contributors/:recipe_type/``
+If you’d like to get a specific mixins recipe, you can call this endpoint:
 
-##### Contributions
+``/mixins/:mixin_name``
 
-If you’d like to see who has made what contributions to which recipes, call this:
+So to get the recipe for the corn salad mixins, do this:
 
-``/contributions/:github_username/``
+``/mixins/corn_salad.json``
 
-So, to get all of [Dan Sinker’s](http://github.com/sinker) contributions, call this:
+##### Shells
 
-``/contributions/sinker/``
+If you’d like to get all available base layer recipes, you can call this endpoint:
 
-To get a listing of all contributors and their usernames, call:
+``/shells/``
 
-``/contributions/``
+If you’d like to get a specific shell recipe, you can call this endpoint:
 
-### Want to help?
+``/shells/:shell_name``
 
-This whole this is a relatively rudimentary Flask setup. After you ``pip install``
-the requirements, you should be able to visit ``/cook/`` to get a DB
-together. The Flask app is looking for an environmental variable ``DATABASE_URL`` to
-tell it how to connect to the database. Depending on what backend you’re using, you
-might need to actually create the database, etc before it’ll work.
-I developed this with sqlite but you should be able to use any backend that
-SQLAlchemy supports. 
+So to get the recipe for the fresh corn tortilla shells, do this:
 
-You’ll also need to set ``GITHUB_TOKEN`` as an environment variable. This is a
-OAuth Token for the Github API. You can read more about how to get that going
-[here](https://developer.github.com/v3/auth/#basic-authentication)
+``/shells/fresh_corn_tortillas.json``
+
+##### Seasonings
+
+If you’d like to get all available base layer recipes, you can call this endpoint:
+
+``/seasonings/``
+
+If you’d like to get a specific seasoning recipe, you can call this endpoint:
+
+``/seasonings/:seasoning_name``
+
+So to get the recipe for the mahi mahi rub, do this:
+
+``/seasonings/mahi_mahi_rub.json``

@@ -1,6 +1,5 @@
-# Taco Pundit API
+# Taco Pundit API [![Analytics](https://ga-beacon.appspot.com/UA-160733756-1/welcome-page?pixel)](https://github.com/pramodsum/taco-pundit-api)
 
-[![Analytics](https://ga-beacon.appspot.com/UA-160733756-1/welcome-page?pixel)](https://github.com/pramodsum/taco-pundit-api)
 
 Simple read-only JSON API for https://pramodsum.github.io/tacopundit/
 Based on API for https://github.com/sinker/tacofancy
